@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\УРОКИ\Языки программирования\Семминар\bin\Debug\net6.0\Семминар.exe
+C:\Users\admin\Desktop\УРОКИ\Языки программирования\Семминар\bin\Debug\net6.0\Семминар.deps.json
+C:\Users\admin\Desktop\УРОКИ\Языки программирования\Семминар\bin\Debug\net6.0\Семминар.runtimeconfig.json
+C:\Users\admin\Desktop\УРОКИ\Языки программирования\Семминар\bin\Debug\net6.0\Семминар.dll
+C:\Users\admin\Desktop\УРОКИ\Языки программирования\Семминар\bin\Debug\net6.0\Семминар.pdb
+C:\Users\admin\Desktop\УРОКИ\Языки программирования\Семминар\obj\Debug\net6.0\Семминар.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\УРОКИ\Языки программирования\Семминар\obj\Debug\net6.0\Семминар.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\УРОКИ\Языки программирования\Семминар\obj\Debug\net6.0\Семминар.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\УРОКИ\Языки программирования\Семминар\obj\Debug\net6.0\Семминар.AssemblyInfo.cs
+C:\Users\admin\Desktop\УРОКИ\Языки программирования\Семминар\obj\Debug\net6.0\Семминар.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\УРОКИ\Языки программирования\Семминар\obj\Debug\net6.0\Семминар.dll
+C:\Users\admin\Desktop\УРОКИ\Языки программирования\Семминар\obj\Debug\net6.0\refint\Семминар.dll
+C:\Users\admin\Desktop\УРОКИ\Языки программирования\Семминар\obj\Debug\net6.0\Семминар.pdb
+C:\Users\admin\Desktop\УРОКИ\Языки программирования\Семминар\obj\Debug\net6.0\Семминар.genruntimeconfig.cache
+C:\Users\admin\Desktop\УРОКИ\Языки программирования\Семминар\obj\Debug\net6.0\ref\Семминар.dll
