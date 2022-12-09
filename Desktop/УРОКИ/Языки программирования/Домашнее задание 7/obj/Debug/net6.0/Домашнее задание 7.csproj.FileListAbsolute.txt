@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\УРОКИ\Языки программирования\Домашнее задание 7\bin\Debug\net6.0\Домашнее задание 7.exe
+C:\Users\admin\Desktop\УРОКИ\Языки программирования\Домашнее задание 7\bin\Debug\net6.0\Домашнее задание 7.deps.json
+C:\Users\admin\Desktop\УРОКИ\Языки программирования\Домашнее задание 7\bin\Debug\net6.0\Домашнее задание 7.runtimeconfig.json
+C:\Users\admin\Desktop\УРОКИ\Языки программирования\Домашнее задание 7\bin\Debug\net6.0\Домашнее задание 7.dll
+C:\Users\admin\Desktop\УРОКИ\Языки программирования\Домашнее задание 7\bin\Debug\net6.0\Домашнее задание 7.pdb
+C:\Users\admin\Desktop\УРОКИ\Языки программирования\Домашнее задание 7\obj\Debug\net6.0\Домашнее задание 7.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\УРОКИ\Языки программирования\Домашнее задание 7\obj\Debug\net6.0\Домашнее задание 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\УРОКИ\Языки программирования\Домашнее задание 7\obj\Debug\net6.0\Домашнее задание 7.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\УРОКИ\Языки программирования\Домашнее задание 7\obj\Debug\net6.0\Домашнее задание 7.AssemblyInfo.cs
+C:\Users\admin\Desktop\УРОКИ\Языки программирования\Домашнее задание 7\obj\Debug\net6.0\Домашнее задание 7.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\УРОКИ\Языки программирования\Домашнее задание 7\obj\Debug\net6.0\Домашнее задание 7.dll
+C:\Users\admin\Desktop\УРОКИ\Языки программирования\Домашнее задание 7\obj\Debug\net6.0\refint\Домашнее задание 7.dll
+C:\Users\admin\Desktop\УРОКИ\Языки программирования\Домашнее задание 7\obj\Debug\net6.0\Домашнее задание 7.pdb
+C:\Users\admin\Desktop\УРОКИ\Языки программирования\Домашнее задание 7\obj\Debug\net6.0\Домашнее задание 7.genruntimeconfig.cache
+C:\Users\admin\Desktop\УРОКИ\Языки программирования\Домашнее задание 7\obj\Debug\net6.0\ref\Домашнее задание 7.dll
