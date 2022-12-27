@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\УРОКИ\итоговый проект\bin\Debug\net6.0\итоговый проект.exe
+C:\Users\admin\Desktop\УРОКИ\итоговый проект\bin\Debug\net6.0\итоговый проект.deps.json
+C:\Users\admin\Desktop\УРОКИ\итоговый проект\bin\Debug\net6.0\итоговый проект.runtimeconfig.json
+C:\Users\admin\Desktop\УРОКИ\итоговый проект\bin\Debug\net6.0\итоговый проект.dll
+C:\Users\admin\Desktop\УРОКИ\итоговый проект\bin\Debug\net6.0\итоговый проект.pdb
+C:\Users\admin\Desktop\УРОКИ\итоговый проект\obj\Debug\net6.0\итоговый проект.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\УРОКИ\итоговый проект\obj\Debug\net6.0\итоговый проект.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\УРОКИ\итоговый проект\obj\Debug\net6.0\итоговый проект.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\УРОКИ\итоговый проект\obj\Debug\net6.0\итоговый проект.AssemblyInfo.cs
+C:\Users\admin\Desktop\УРОКИ\итоговый проект\obj\Debug\net6.0\итоговый проект.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\УРОКИ\итоговый проект\obj\Debug\net6.0\итоговый проект.dll
+C:\Users\admin\Desktop\УРОКИ\итоговый проект\obj\Debug\net6.0\refint\итоговый проект.dll
+C:\Users\admin\Desktop\УРОКИ\итоговый проект\obj\Debug\net6.0\итоговый проект.pdb
+C:\Users\admin\Desktop\УРОКИ\итоговый проект\obj\Debug\net6.0\итоговый проект.genruntimeconfig.cache
+C:\Users\admin\Desktop\УРОКИ\итоговый проект\obj\Debug\net6.0\ref\итоговый проект.dll
