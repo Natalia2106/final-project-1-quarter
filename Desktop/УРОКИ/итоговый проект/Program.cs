@@ -11,3 +11,30 @@
 //в заданный диапазон (количество пройденных циклов при переборе элементов равно количеству элементов первого 
 //массива и количество символов второго массива не более 3)
 //3. Выводим новый (второй) массивс длиной первого массива.
+
+//Программа для решения задачи
+string[] array1=new string[5] {"hello", "2", "world", ":-)", "Russia"};
+string[] array2=new string [array1.Length];
+
+void FindArray (string[] array1, string[] array2)
+{
+    int temp=0;
+    for (int i=0; i<array1.Length; i++)
+        if (array1[i].Length<=3)
+        {
+            array2[temp]=array1[i];
+            temp++;
+        }
+}
+
+void ShowArray (string[]array)
+{
+    for (int i=0; i<array.Length; i++)
+         Console.Write(array[i] + " ");
+    Console.WriteLine();       
+}
+FindArray (array1, array2);
+ShowArray(array2);
+
+
+
